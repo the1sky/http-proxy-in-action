@@ -1,0 +1,9 @@
+{
+  "name": "http-proxy-in-action",
+  "version": "0.0.1",
+  "email":"dumingtan@gmail.com",
+  "private": true,
+  "dependencies": {
+    "http-proxy": "^1.11.1"
+  }
+}
